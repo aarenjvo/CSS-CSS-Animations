@@ -38,8 +38,8 @@
 
 }
 
-@keyframes sale-bar {
+/* @keyframes sale-bar {
   0% { background-color: lightgreen; width: 450px }
   75% { background-color: #FF033E; width: 125x }
   100% { background-color: crimson; width: 10px }
-}
+} */
